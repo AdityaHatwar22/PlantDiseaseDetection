@@ -107,6 +107,6 @@ python predict.py
 
 ---
 
-## ⭐ Show your support
+##  Show your support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, give it a  on GitHub!
